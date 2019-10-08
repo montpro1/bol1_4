@@ -17,7 +17,7 @@ public class Bol1_4 {
        float s=num1+num2;
        float c=num1/num2;
        float p=num1*num2;
-       System.out.println("la suma es "+s+", \n la resta es "+r+", el cociente es "+c+", el producto es "+p);
+       System.out.println("la suma es "+s+", \n la resta es "+r+", \n el cociente es "+c+", \n el producto es "+p);
        
        
        
